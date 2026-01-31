@@ -1,0 +1,2 @@
+# Evaluate-Regression-and-Regularized-Regression-Models-in-a-Real-World-Application
+Regression is fundamental to predictive modeling, but Ordinary Least Squares (OLS) often underperforms in high-dimensional settings due to multicollinearity, overfitting, and unstable coefficients. Regularization techniques which include Ridge, Lasso, and Elastic Net do address these challenges  by introducing penalty terms  shrinking coefficients.
